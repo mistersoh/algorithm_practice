@@ -1,5 +1,5 @@
 # Why & How?
-'''
+
 '''
 Create Fast and slow pointer, which initially are head.
 When only there exist fast, fast.next and fast.next.next get next linked list 
@@ -23,7 +23,7 @@ class Solution(object):
                 return True
             
         return False
-'''
+
 # Better version (Runtime: 44 ms, faster than 92.24%, Memory Usage: 20.6 MB, less than 26.94%)
 
 class Solution(object):
