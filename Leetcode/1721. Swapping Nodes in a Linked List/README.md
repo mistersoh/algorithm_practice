@@ -1,0 +1,3 @@
+### Link: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
+![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68f4963d-b4e6-40df-862f-4e50661c10b1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220623%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220623T082735Z&X-Amz-Expires=86400&X-Amz-Signature=e367beccf22c044cfe298f78a9560b22cba6eb3f68a2e2c91d2f575e084b8422&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
